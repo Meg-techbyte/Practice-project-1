@@ -2,7 +2,7 @@
 This is my first project to learn Git commands.
 ## New Feature: Login Page
 <<<<<<< HEAD
-We’re developing a secure login system.
+We’re developing a secure logout system.
 =======
 We’re working on adding a login feature for the project.
 Signup feature will allow new users to create an account securely.
