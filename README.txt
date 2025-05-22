@@ -18,4 +18,7 @@ We're adding user dashboard section
 
  b86f191a33ef9e5f0b83f2fc1f046a6a78d10983
 🔖 Version 1.1 Release - Includes dashboard + payment gateway
+ main
+
  0b08715 (Prepare v1.1 release notes)
+ dev
